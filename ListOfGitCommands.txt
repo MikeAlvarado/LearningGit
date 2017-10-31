@@ -1,9 +1,10 @@
 List Of Git Commands
-git clone <url> 			//Is used to create a copy of the git repository
-git status 					//Show current changes to files
-git add <file> 				//Adds the file to be commited
+git clone <url> 		//Is used to create a copy of the git repository
+git status 			//Show current changes to files
+git add <file> 			//Adds the file to be commited
 git add .
-git add -A 					//Adds all files on the directory to be commited
+git add -A 			//Adds all files on the directory to be commited
 git commit -m "<message>"	//Commits file with message
-git push					//Sends everything to the repository
-git 						//Shows help
+git pull			//Downloads changes from the branch
+git push			//Sends everything to the repository
+git 				//Shows help
